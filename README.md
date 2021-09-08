@@ -4,16 +4,16 @@
 </p>
 <h1 align="center"> Connect with me: </h1>
 <p align="center">
-<a href="https://google-run.qwiklabs.com/public_profiles/37897df9-6ec4-4045-8b67-70d8e0c996a4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/qwiklabs.svg" alt="DaudAhmad" height="30" width="40" /></a>
-<a href="https://codepen.io/daudahmad1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="DaudAhmad" height="30" width="40" /></a>
-<a href="https://leetcode.com/Daud-Ahmad/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/leetcode.svg" alt="DaudAhmad" height="30" width="40" /></a>
-<a href="https://dev.to/daudahmad1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="DaudAhmad" height="30" width="40" /></a>
-<a href="https://twitter.com/DaudAhmad0303" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="DaudAhmad" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/daudahmad0303/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="DaudAhmad" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15505128/daud-ahmad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="DaudAhmad" height="30" width="40" /></a>
-<a href="https://www.instagram.com/daudahmad0303/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="DaudAhmad" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCTtKtUym_kY6Hu-90J0vADw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/youtube.svg" alt="DaudAhmad" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/daudahmad0303" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/kaggle.svg" alt="DaudAhmad" height="30" width="40" /></a>
+<a href="https://google-run.qwiklabs.com/public_profiles/37897df9-6ec4-4045-8b67-70d8e0c996a4" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/qwiklabs.svg" alt="DaudAhmad" height="30" width="40" /></a>
+<a href="https://codepen.io/daudahmad1" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="DaudAhmad" height="30" width="40" /></a>
+<a href="https://leetcode.com/Daud-Ahmad/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/leetcode.svg" alt="DaudAhmad" height="30" width="40" /></a>
+<a href="https://dev.to/daudahmad1" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="DaudAhmad" height="30" width="40" /></a>
+<a href="https://twitter.com/DaudAhmad0303" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="DaudAhmad" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/daudahmad0303/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="DaudAhmad" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15505128/daud-ahmad" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="DaudAhmad" height="30" width="40" /></a>
+<a href="https://www.instagram.com/daudahmad0303/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="DaudAhmad" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCTtKtUym_kY6Hu-90J0vADw" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/youtube.svg" alt="DaudAhmad" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/daudahmad0303" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/kaggle.svg" alt="DaudAhmad" height="30" width="40" /></a>
 </p>
 <br>
 
