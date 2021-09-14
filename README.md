@@ -25,7 +25,7 @@
 <p align="center">
   <a href="https://github.com/DaudAhmad0303"><span>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daudahmad0303&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=daudahmad0303&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daudahmad0303&layout=compact&theme=radical&include_all_commits=true"/>
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daudahmad0303&theme=dracula" />
     </span></a>
 </p>
@@ -46,10 +46,11 @@
 ![Spotify](https://novatorem.vercel.app/api/spotify)
 
 <hr>
-<p align="center"> 
-  Visitor count<br>
+<h4 align="center"><b> 
+  Visitor's count</b> 👀
+  <br/><br/>
   <img src="https://profile-counter.glitch.me/DaudAhmad0303/count.svg" />
-</p>
+</h4>
 
 
 
