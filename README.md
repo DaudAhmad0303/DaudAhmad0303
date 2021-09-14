@@ -41,16 +41,19 @@
 </a>
 </p>
 <hr>
-<h2>Spotify Playing 🎧</h2>
+<!-- <h2>Spotify Playing 🎧</h2>
 
 ![Spotify](https://novatorem.vercel.app/api/spotify)
 
-<hr>
+<hr> -->
 <h4 align="center"><b> 
   Visitor's count</b> 👀
   <br/><br/>
   <img src="https://profile-counter.glitch.me/DaudAhmad0303/count.svg" />
 </h4>
+<a href="https://github.com/daudahmad0303">
+  <img src="https://github.com/punitkmryh/punitkmryh/raw/master/wave.svg" alt=" so cool!" style="max-width: 100%;">
+</a>
 
 
 
