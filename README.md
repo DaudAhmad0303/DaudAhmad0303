@@ -27,27 +27,41 @@
         </a>
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+        <a href="https://github.com/topics/c" target="_blank">
+          <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/c/c.svg" width="60">
+        </a>
     </td>
     <td align='center' width="190">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
+        <a href="https://isocpp.org/" target="_blank">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
+        </a>
     </td>
      <td align='center' width="190">
-        <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
+        <a href="https://github.com/whatwg/html">
+          <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/html/html.svg" width="50">
+        </a>
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+        <a href="https://www.w3.org/Style/CSS/Overview.en.html">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="70">
+        </a>
     </td>
 </tr>
 <tr>
-    <td align='center'>
-        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="60" height="40">
+    <td align='center' width="190">
+        <a href="https://github.com/RasaHQ/rasa">
+          <img src="https://info.rasa.com/hubfs/Rasa_January2020/Images/rasa-logo-60e441f8eadef13bea0cc790c8cf188b.svg" width="100">
+        </a>
     </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+    <td align='center' width="190">
+        <a href="https://github.com/pallets/flask">
+          <img src="https://buttercms.com/static/images/tech_banners/Flask.png" width="130">
+        </a>
     </td>
-    <td align='center'>
-        <img src="https://vegibit.com/wp-content/uploads/2018/05/expressjs.png">
+    <td align='center' width="190">
+        <a href="https://github.com/django/django">
+          <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" width="130">
+        </a>
     </td>
     <td align='center'>
         <img src="http://rhc4tp-cms-prod-vpc-76857813.s3.amazonaws.com/s3fs-public/mongodb-logo-rgb-j6w271g1xn.jpg">
@@ -57,8 +71,10 @@
     </td>
 </tr>
 <tr>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" height="40" width="60">
+    <td align='center' width="190">
+        <a href="https://github.com/android">
+          <img src="https://github.com/eddydn/AndroidLogoQuiz/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="60">
+        </a>
     </td>
     <td align='center'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
@@ -104,7 +120,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/RabbitMQ_logo.svg/1200px-RabbitMQ_logo.svg.png">
     </td>
     <td align='center'>
-        <img src="https://miro.medium.com/max/600/1*usQX20oLxChIAupsuRi7GQ.png">
+        <img src="https://github.com/RRICHARRD/Git/blob/master/git-image/Git-Logo-Color.png" alt="Git-logo-color" width="250"/>
     </td>
 </tr>
 
