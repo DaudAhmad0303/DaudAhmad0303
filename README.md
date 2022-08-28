@@ -85,14 +85,20 @@
           <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg">
         </a>
     </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
+    <td align='center' width="190">
+        <a href="https://colab.research.google.com/">
+          <img src="https://repository-images.githubusercontent.com/304608186/0b06d300-5dc1-11eb-9a33-97a745c89ceb">
+        </a>
     </td>
-    <td align='center'>
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
+    <td align='center' width="190">
+        <a href="https://code.visualstudio.com/">
+          <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
+        </a>
     </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+    <td align='center' width="190">
+        <a href="https://visualstudio.microsoft.com/">
+          <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" width="70">
+        </a>
     </td>
 </tr>
 <tr>
@@ -106,7 +112,7 @@
         <img src="https://miro.medium.com/max/901/1*GkrYGz_r9W6AVgEloQpJFQ.png">
     </td>
     <td align='center'>
-        <img src="https://download.logo.wine/logo/Redis/Redis-Logo.wine.png">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
     </td>
     <td align='center'>
         <img src="https://cdn-images-1.medium.com/max/1200/1*kqpVTzo8b0e2oKdOjWQxZA.png">
