@@ -76,12 +76,14 @@
 </tr>
 <tr>
     <td align='center' width="190">
-        <a href="https://github.com/android">
-          <img src="https://github.com/eddydn/AndroidLogoQuiz/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="60">
+        <a href="https://github.com/matplotlib/matplotlib">
+          <img src="https://camo.githubusercontent.com/1b50dc4a1670e8748da0063c0728673f060eef77798141c326e55550ad7e1aea/68747470733a2f2f6d6174706c6f746c69622e6f72672f5f7374617469632f6c6f676f325f636f6d707265737365642e737667">
         </a>
     </td>
-    <td align='center'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
+    <td align='center' width="190">
+        <a href="https://github.com/mwaskom/seaborn">
+          <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg">
+        </a>
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
@@ -142,7 +144,9 @@
         <img src="https://marvel-b1-cdn.bc0a.com/f00000000152152/www.zend.com/sites/default/files/image/2019-09/logo-docker.jpg" >
     </td>
     <td align='center'>
-        <img src="https://www.nginx.com/wp-content/uploads/2018/08/NGINX-logo-rgb-large.png" >
+        <a href="https://github.com/android">
+          <img src="https://github.com/eddydn/AndroidLogoQuiz/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="60">
+        </a>
     </td>
 </tr>
     
