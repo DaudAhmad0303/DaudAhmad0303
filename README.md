@@ -63,11 +63,15 @@
           <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" width="130">
         </a>
     </td>
-    <td align='center'>
-        <img src="http://rhc4tp-cms-prod-vpc-76857813.s3.amazonaws.com/s3fs-public/mongodb-logo-rgb-j6w271g1xn.jpg">
+    <td align='center' width="190">
+        <a href="https://github.com/numpy/numpy">
+          <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" width="100">
+        </a>
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
+        <a href="https://github.com/pandas-dev/pandas">
+          <img src = "https://camo.githubusercontent.com/ff5c731f911ef14875d45a18b634c759885c4b9ae9de7ed747039c358cc91008/68747470733a2f2f736b6570747269632e636f6d2f696d616765732f70616e6461732e706e67" width="120">
+        </a>
     </td>
 </tr>
 <tr>
@@ -108,10 +112,10 @@
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png">
+        <img src="http://rhc4tp-cms-prod-vpc-76857813.s3.amazonaws.com/s3fs-public/mongodb-logo-rgb-j6w271g1xn.jpg">
     </td>
     <td align='center'>
-        <img src="https://buttercms.com/static/images/tech_banners/Flask.png" >
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
     </td>
     <td align='center'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png">
