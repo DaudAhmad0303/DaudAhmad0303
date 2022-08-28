@@ -86,8 +86,8 @@
         </a>
     </td>
     <td align='center' width="190">
-        <a href="https://colab.research.google.com/">
-          <img src="https://repository-images.githubusercontent.com/304608186/0b06d300-5dc1-11eb-9a33-97a745c89ceb">
+        <a href="https://github.com/scikit-learn/scikit-learn">
+          <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png">
         </a>
     </td>
     <td align='center' width="190">
@@ -102,11 +102,15 @@
     </td>
 </tr>
 <tr>
-    <td align='center'>
-        <img src="https://download.logo.wine/logo/PostgreSQL/PostgreSQL-Logo.wine.png">
+    <td align='center' width="190">
+        <a href="https://jupyter.org/">
+          <img src="https://jupyter.org/assets/homepage/main-logo.svg" width="70">
+        </a>
     </td>
-    <td align='center'>
-        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
+    <td align='center' width="190">
+        <a href="https://colab.research.google.com/">
+          <img src="https://repository-images.githubusercontent.com/304608186/0b06d300-5dc1-11eb-9a33-97a745c89ceb">
+        </a>
     </td>
     <td align='center'>
         <img src="https://miro.medium.com/max/901/1*GkrYGz_r9W6AVgEloQpJFQ.png">
@@ -125,8 +129,10 @@
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
     </td>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png">
+    <td align='center' width="190">
+        <a href="https://www.microsoft.com/en-us/sql-server/">
+          <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="100">
+        </a>
     </td>
     <td align='center'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/RabbitMQ_logo.svg/1200px-RabbitMQ_logo.svg.png">
