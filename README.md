@@ -112,8 +112,10 @@
           <img src="https://repository-images.githubusercontent.com/304608186/0b06d300-5dc1-11eb-9a33-97a745c89ceb">
         </a>
     </td>
-    <td align='center'>
-        <img src="https://miro.medium.com/max/901/1*GkrYGz_r9W6AVgEloQpJFQ.png">
+    <td align='center' width="190">
+        <a href="https://github.com/curl/curl">
+          <img src="https://camo.githubusercontent.com/f6442d1eb0dd05aa511a36868cb47c82da3cc73b7d4d71ed5a873b7d4c02dd4e/68747470733a2f2f6375726c2e73652f6c6f676f2f6375726c2d6c6f676f2e737667" width="120">
+        </a>
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
