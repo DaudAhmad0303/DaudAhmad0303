@@ -117,8 +117,10 @@
           <img src="https://camo.githubusercontent.com/f6442d1eb0dd05aa511a36868cb47c82da3cc73b7d4d71ed5a873b7d4c02dd4e/68747470733a2f2f6375726c2e73652f6c6f676f2f6375726c2d6c6f676f2e737667" width="120">
         </a>
     </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+    <td align='center' width="190">
+        <a href="https://www.postman.com/">
+          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="80">
+        </a>
     </td>
     <td align='center'>
         <img src="https://cdn-images-1.medium.com/max/1200/1*kqpVTzo8b0e2oKdOjWQxZA.png">
