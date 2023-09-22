@@ -174,7 +174,7 @@
 
 <!-- ## Contribution Graph -->
 
-[![Daud's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DaudAhmad0303&theme=xcode)](https://github.com/DaudAhmad0303)
+[![Daud's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DaudAhmad0303&theme=github)](https://github.com/DaudAhmad0303)
 
 <h2><i>⚙️ GitHub Analytics</i></h2>
 <p align="center">
