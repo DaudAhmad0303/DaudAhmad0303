@@ -26,9 +26,9 @@
           <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python.svg" width="60">
         </a>
     </td>
-    <td align='center' width="190">
-        <a href="https://github.com/topics/c" target="_blank">
-          <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/c/c.svg" width="60">
+    <td align='center' width="220">
+        <a href="https://java.com" target="_blank">
+          <img src="https://camo.githubusercontent.com/1630f8163d36c12ba82e9cb502886d0951351aab4c18ac7a042ef871cb05f6ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f4070726f6772616d6d696e672d6c616e6775616765732d6c6f676f732f6a61766140302e302e302f6a6176615f323536783235362e706e67" width="60">
         </a>
     </td>
     <td align='center' width="190">
@@ -48,6 +48,11 @@
     </td>
 </tr>
 <tr>
+  <td align='center'>
+        <a href="https://spring.io/projects/spring-boot">
+          <img src = "https://avatars.githubusercontent.com/u/317776?s=120&v=4">
+        </a>
+    </td>
     <td align='center' width="190">
         <a href="https://github.com/RasaHQ/rasa">
           <img src="https://info.rasa.com/hubfs/Rasa_January2020/Images/rasa-logo-60e441f8eadef13bea0cc790c8cf188b.svg" width="100">
@@ -68,16 +73,16 @@
           <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" width="100">
         </a>
     </td>
-    <td align='center'>
+</tr>
+<tr>
+  <td align='center'>
         <a href="https://github.com/pandas-dev/pandas">
           <img src = "https://camo.githubusercontent.com/ff5c731f911ef14875d45a18b634c759885c4b9ae9de7ed747039c358cc91008/68747470733a2f2f736b6570747269632e636f6d2f696d616765732f70616e6461732e706e67" width="120">
         </a>
     </td>
-</tr>
-<tr>
     <td align='center' width="190">
         <a href="https://github.com/matplotlib/matplotlib">
-          <img src="https://camo.githubusercontent.com/1b50dc4a1670e8748da0063c0728673f060eef77798141c326e55550ad7e1aea/68747470733a2f2f6d6174706c6f746c69622e6f72672f5f7374617469632f6c6f676f325f636f6d707265737365642e737667">
+          <img src="https://avatars.githubusercontent.com/u/215947?s=120&v=4">
         </a>
     </td>
     <td align='center' width="190">
@@ -86,13 +91,8 @@
         </a>
     </td>
     <td align='center' width="190">
-        <a href="https://github.com/scikit-learn/scikit-learn">
-          <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png">
-        </a>
-    </td>
-    <td align='center' width="190">
         <a href="https://code.visualstudio.com/">
-          <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
+          <img src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png" width="60">
         </a>
     </td>
     <td align='center' width="190">
@@ -128,7 +128,7 @@
 </tr>
 <tr>
     <td align='center'>
-        <img src="http://rhc4tp-cms-prod-vpc-76857813.s3.amazonaws.com/s3fs-public/mongodb-logo-rgb-j6w271g1xn.jpg">
+        <img src="https://raw.githubusercontent.com/github/explore/6c7084bb772f6fabaae377f5ae4a607594234ee6/topics/selenium/selenium.png" width="90">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
