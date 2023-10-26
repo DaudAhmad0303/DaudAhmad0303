@@ -77,12 +77,12 @@
 <tr>
   <td align='center'>
         <a href="https://github.com/pandas-dev/pandas">
-          <img src = "https://camo.githubusercontent.com/ff5c731f911ef14875d45a18b634c759885c4b9ae9de7ed747039c358cc91008/68747470733a2f2f736b6570747269632e636f6d2f696d616765732f70616e6461732e706e67" width="120">
+          <img src = "https://camo.githubusercontent.com/ff5c731f911ef14875d45a18b634c759885c4b9ae9de7ed747039c358cc91008/68747470733a2f2f736b6570747269632e636f6d2f696d616765732f70616e6461732e706e67" width="110">
         </a>
     </td>
     <td align='center' width="190">
         <a href="https://github.com/matplotlib/matplotlib">
-          <img src="https://avatars.githubusercontent.com/u/215947?s=120&v=4">
+          <img src="https://avatars.githubusercontent.com/u/215947?s=110&v=4">
         </a>
     </td>
     <td align='center' width="190">
